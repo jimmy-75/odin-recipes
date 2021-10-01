@@ -5,5 +5,17 @@ h3 {
   text-transform: uppercase;
 }
 .instructions {
-  width: 400px;
+  width: 500px;
+  margin: 0 auto;
+}
+body {
+  width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+ul {
+  list-style-position: inside;
+}
+ol {
+  list-style-position: inside;
 }
